@@ -7,7 +7,7 @@
 
 * [Local model testing (Jupyter Notebook)](https://github.com/jnawjux/batman_plots/blob/master/text_generation_local.ipynb)
 
-* Presentation (Google Slides)
+* [Presentation (Google Slides)](https://docs.google.com/presentation/d/1PKpglW9tL4CzkSmBj6t2vb6LN9jmImE4T9bI4usBroI/edit?usp=sharing)
 
 
 ### Overview
