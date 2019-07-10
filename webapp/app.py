@@ -14,8 +14,8 @@ def index():
 @app.route('/predict', methods=['GET', 'POST'])
 def predict():
     """Generate new sentences and add to origianl sentence."""
-    sess = gpt2.start_tf_sess()
     data = request.json
+    sess = gpt2.start_tf_sess()
     gpt2.load_gpt2(sess, run_name='batman_66')
     gen_text = gpt2.generate(sess,
                              length=100,
